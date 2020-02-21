@@ -1,0 +1,303 @@
+[26-Jul-2019 18:19:30 America/Lima] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Leofeature::shouldEnableAddToCartButton() must be of the type array, object given, called in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php on line 1305 and defined in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php:1722
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php(1305): Leofeature->shouldEnableAddToCartButton(Object(PrestaShop\PrestaShop\Adapter\Presenter\Product\ProductListingLazyArray))
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(970): Leofeature->hookdisplayLeoCartButton(Array)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(355): HookCore::coreCallHook(Object(Leofeature), 'hookdisplayLeoC...', Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(907): HookCore::callHookOn(Object(Leofeature), 'displayLeoCartB...', Array)
+#4 /home/b65oe25eh20f/public_html/mimbreperu.com/config/smarty.config.i in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php on line 1722
+[26-Jul-2019 18:19:45 America/Lima] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Leofeature::shouldEnableAddToCartButton() must be of the type array, object given, called in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php on line 1305 and defined in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php:1722
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php(1305): Leofeature->shouldEnableAddToCartButton(Object(PrestaShop\PrestaShop\Adapter\Presenter\Product\ProductListingLazyArray))
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(970): Leofeature->hookdisplayLeoCartButton(Array)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(355): HookCore::coreCallHook(Object(Leofeature), 'hookdisplayLeoC...', Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(907): HookCore::callHookOn(Object(Leofeature), 'displayLeoCartB...', Array)
+#4 /home/b65oe25eh20f/public_html/mimbreperu.com/config/smarty.config.i in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php on line 1722
+[26-Jul-2019 18:23:38 America/Lima] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Leofeature::shouldEnableAddToCartButton() must be of the type array, object given, called in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php on line 1305 and defined in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php:1722
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php(1305): Leofeature->shouldEnableAddToCartButton(Object(PrestaShop\PrestaShop\Adapter\Presenter\Product\ProductListingLazyArray))
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(970): Leofeature->hookdisplayLeoCartButton(Array)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(355): HookCore::coreCallHook(Object(Leofeature), 'hookdisplayLeoC...', Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(907): HookCore::callHookOn(Object(Leofeature), 'displayLeoCartB...', Array)
+#4 /home/b65oe25eh20f/public_html/mimbreperu.com/config/smarty.config.i in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php on line 1722
+[26-Jul-2019 18:23:40 America/Lima] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Leofeature::shouldEnableAddToCartButton() must be of the type array, object given, called in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php on line 1305 and defined in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php:1722
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php(1305): Leofeature->shouldEnableAddToCartButton(Object(PrestaShop\PrestaShop\Adapter\Presenter\Product\ProductListingLazyArray))
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(970): Leofeature->hookdisplayLeoCartButton(Array)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(355): HookCore::coreCallHook(Object(Leofeature), 'hookdisplayLeoC...', Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(907): HookCore::callHookOn(Object(Leofeature), 'displayLeoCartB...', Array)
+#4 /home/b65oe25eh20f/public_html/mimbreperu.com/config/smarty.config.i in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php on line 1722
+[26-Jul-2019 18:23:41 America/Lima] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Leofeature::shouldEnableAddToCartButton() must be of the type array, object given, called in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php on line 1305 and defined in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php:1722
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php(1305): Leofeature->shouldEnableAddToCartButton(Object(PrestaShop\PrestaShop\Adapter\Presenter\Product\ProductListingLazyArray))
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(970): Leofeature->hookdisplayLeoCartButton(Array)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(355): HookCore::coreCallHook(Object(Leofeature), 'hookdisplayLeoC...', Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(907): HookCore::callHookOn(Object(Leofeature), 'displayLeoCartB...', Array)
+#4 /home/b65oe25eh20f/public_html/mimbreperu.com/config/smarty.config.i in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php on line 1722
+[26-Jul-2019 18:29:46 America/Lima] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Leofeature::shouldEnableAddToCartButton() must be of the type array, object given, called in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php on line 1305 and defined in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php:1722
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php(1305): Leofeature->shouldEnableAddToCartButton(Object(PrestaShop\PrestaShop\Adapter\Presenter\Product\ProductListingLazyArray))
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(970): Leofeature->hookdisplayLeoCartButton(Array)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(355): HookCore::coreCallHook(Object(Leofeature), 'hookdisplayLeoC...', Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(907): HookCore::callHookOn(Object(Leofeature), 'displayLeoCartB...', Array)
+#4 /home/b65oe25eh20f/public_html/mimbreperu.com/config/smarty.config.i in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php on line 1722
+[26-Jul-2019 18:33:15 America/Lima] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Leofeature::shouldEnableAddToCartButton() must be of the type array, object given, called in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php on line 1305 and defined in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php:1722
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php(1305): Leofeature->shouldEnableAddToCartButton(Object(PrestaShop\PrestaShop\Adapter\Presenter\Product\ProductListingLazyArray))
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(970): Leofeature->hookdisplayLeoCartButton(Array)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(355): HookCore::coreCallHook(Object(Leofeature), 'hookdisplayLeoC...', Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(907): HookCore::callHookOn(Object(Leofeature), 'displayLeoCartB...', Array)
+#4 /home/b65oe25eh20f/public_html/mimbreperu.com/config/smarty.config.i in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php on line 1722
+[26-Jul-2019 18:33:17 America/Lima] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Leofeature::shouldEnableAddToCartButton() must be of the type array, object given, called in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php on line 1305 and defined in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php:1722
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php(1305): Leofeature->shouldEnableAddToCartButton(Object(PrestaShop\PrestaShop\Adapter\Presenter\Product\ProductListingLazyArray))
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(970): Leofeature->hookdisplayLeoCartButton(Array)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(355): HookCore::coreCallHook(Object(Leofeature), 'hookdisplayLeoC...', Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(907): HookCore::callHookOn(Object(Leofeature), 'displayLeoCartB...', Array)
+#4 /home/b65oe25eh20f/public_html/mimbreperu.com/config/smarty.config.i in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php on line 1722
+[26-Jul-2019 18:36:10 America/Lima] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Leofeature::shouldEnableAddToCartButton() must be of the type array, object given, called in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php on line 1305 and defined in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php:1722
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php(1305): Leofeature->shouldEnableAddToCartButton(Object(PrestaShop\PrestaShop\Adapter\Presenter\Product\ProductListingLazyArray))
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(970): Leofeature->hookdisplayLeoCartButton(Array)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(355): HookCore::coreCallHook(Object(Leofeature), 'hookdisplayLeoC...', Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(907): HookCore::callHookOn(Object(Leofeature), 'displayLeoCartB...', Array)
+#4 /home/b65oe25eh20f/public_html/mimbreperu.com/config/smarty.config.i in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php on line 1722
+[26-Jul-2019 18:36:12 America/Lima] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Leofeature::shouldEnableAddToCartButton() must be of the type array, object given, called in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php on line 1305 and defined in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php:1722
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php(1305): Leofeature->shouldEnableAddToCartButton(Object(PrestaShop\PrestaShop\Adapter\Presenter\Product\ProductListingLazyArray))
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(970): Leofeature->hookdisplayLeoCartButton(Array)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(355): HookCore::coreCallHook(Object(Leofeature), 'hookdisplayLeoC...', Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(907): HookCore::callHookOn(Object(Leofeature), 'displayLeoCartB...', Array)
+#4 /home/b65oe25eh20f/public_html/mimbreperu.com/config/smarty.config.i in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php on line 1722
+[26-Jul-2019 18:36:26 America/Lima] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Leofeature::shouldEnableAddToCartButton() must be of the type array, object given, called in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php on line 1305 and defined in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php:1722
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php(1305): Leofeature->shouldEnableAddToCartButton(Object(PrestaShop\PrestaShop\Adapter\Presenter\Product\ProductListingLazyArray))
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(970): Leofeature->hookdisplayLeoCartButton(Array)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(355): HookCore::coreCallHook(Object(Leofeature), 'hookdisplayLeoC...', Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(907): HookCore::callHookOn(Object(Leofeature), 'displayLeoCartB...', Array)
+#4 /home/b65oe25eh20f/public_html/mimbreperu.com/config/smarty.config.i in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php on line 1722
+[26-Jul-2019 18:36:47 America/Lima] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Leofeature::shouldEnableAddToCartButton() must be of the type array, object given, called in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php on line 1305 and defined in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php:1722
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php(1305): Leofeature->shouldEnableAddToCartButton(Object(PrestaShop\PrestaShop\Adapter\Presenter\Product\ProductListingLazyArray))
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(970): Leofeature->hookdisplayLeoCartButton(Array)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(355): HookCore::coreCallHook(Object(Leofeature), 'hookdisplayLeoC...', Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(907): HookCore::callHookOn(Object(Leofeature), 'displayLeoCartB...', Array)
+#4 /home/b65oe25eh20f/public_html/mimbreperu.com/config/smarty.config.i in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php on line 1722
+[26-Jul-2019 18:37:46 America/Lima] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Leofeature::shouldEnableAddToCartButton() must be of the type array, object given, called in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php on line 1305 and defined in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php:1722
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php(1305): Leofeature->shouldEnableAddToCartButton(Object(PrestaShop\PrestaShop\Adapter\Presenter\Product\ProductListingLazyArray))
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(970): Leofeature->hookdisplayLeoCartButton(Array)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(355): HookCore::coreCallHook(Object(Leofeature), 'hookdisplayLeoC...', Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/classes/Hook.php(907): HookCore::callHookOn(Object(Leofeature), 'displayLeoCartB...', Array)
+#4 /home/b65oe25eh20f/public_html/mimbreperu.com/config/smarty.config.i in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/leofeature/leofeature.php on line 1722
+[09-Aug-2019 19:04:29 America/Lima] PHP Fatal error:  Class 'Defuse\Crypto\Crypto' not found in /home/b65oe25eh20f/public_html/mimbreperu.com/modules/cronjobs/vendor/composer/autoload_static.php on line 1
+[10-Sep-2019 03:10:24 America/Lima] PHP Fatal error:  Class 'Defuse\Crypto\Crypto' not found in /home/b65oe25eh20f/public_html/mimbreperu.com/var/cache/prod/translations/catalogue.es-ES.NXhscRe.php on line 8492
+[04-Dec-2019 17:05:29 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/phpLxjjC8" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/phpLxjjC8', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/phpLxjjC8', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[04-Dec-2019 17:05:30 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/php9NwqH4" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/php9NwqH4', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/php9NwqH4', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[04-Dec-2019 17:05:31 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/phpCsG3om" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/phpCsG3om', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/phpCsG3om', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[04-Dec-2019 17:05:31 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/phpzEbK7D" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/phpzEbK7D', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/phpzEbK7D', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[04-Dec-2019 17:05:32 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/phplCVJEs" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/phplCVJEs', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/phplCVJEs', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[04-Dec-2019 19:04:37 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/phpNW3Stq" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/phpNW3Stq', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/phpNW3Stq', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[04-Dec-2019 19:04:37 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/phps2ms2S" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/phps2ms2S', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/phps2ms2S', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[04-Dec-2019 19:04:38 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/phpPNYcou" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/phpPNYcou', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/phpPNYcou', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[04-Dec-2019 19:04:38 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/phpB9i0vG" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/phpB9i0vG', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/phpB9i0vG', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[04-Dec-2019 19:04:39 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/phpwoL6gd" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/phpwoL6gd', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/phpwoL6gd', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[08-Dec-2019 07:59:01 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/php270csg" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/php270csg', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/php270csg', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[08-Dec-2019 07:59:01 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/phpQloV8w" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/phpQloV8w', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/phpQloV8w', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[08-Dec-2019 07:59:02 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/phppT3K1B" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/phppT3K1B', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/phppT3K1B', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[08-Dec-2019 07:59:02 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/phpo2PRhP" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/phpo2PRhP', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/phpo2PRhP', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[08-Dec-2019 07:59:03 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/phpyQZ4ar" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/phpyQZ4ar', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/phpyQZ4ar', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[09-Dec-2019 07:40:44 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/phpYzDts2" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/phpYzDts2', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/phpYzDts2', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[09-Dec-2019 07:40:46 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/php0DKmhk" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/php0DKmhk', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/php0DKmhk', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[09-Dec-2019 07:40:49 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/phpN8GhAY" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/phpN8GhAY', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/phpN8GhAY', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[09-Dec-2019 07:41:02 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/phpwWlXay" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/phpwWlXay', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/phpwWlXay', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[09-Dec-2019 07:41:08 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/phpNSSFfk" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/phpNSSFfk', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/phpNSSFfk', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[09-Dec-2019 18:47:23 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/phpFeUTWL" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/phpFeUTWL', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/phpFeUTWL', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[09-Dec-2019 18:47:24 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/phpSIYVu9" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/phpSIYVu9', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/phpSIYVu9', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[09-Dec-2019 18:47:28 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/phpdUnN80" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/phpdUnN80', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/phpdUnN80', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[09-Dec-2019 18:47:29 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/phpiuoPGE" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/phpiuoPGE', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/phpiuoPGE', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[09-Dec-2019 18:47:33 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/phpwApIG5" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/phpwApIG5', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/phpwApIG5', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[13-Dec-2019 14:40:11 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/php8S2PPC" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/php8S2PPC', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/php8S2PPC', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[13-Dec-2019 14:40:14 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/php5C6ZWp" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/php5C6ZWp', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/php5C6ZWp', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[13-Dec-2019 14:40:24 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/phpmHYcxZ" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/phpmHYcxZ', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/phpmHYcxZ', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[13-Dec-2019 14:40:30 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/php6wzi7J" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/php6wzi7J', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/php6wzi7J', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[13-Dec-2019 14:40:41 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/phpJZfGh6" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/phpJZfGh6', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/phpJZfGh6', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[21-Feb-2020 09:27:57 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/php07yOYv" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/php07yOYv', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/php07yOYv', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[21-Feb-2020 09:27:59 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/phpJcR6ej" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/phpJcR6ej', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/phpJcR6ej', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[21-Feb-2020 09:28:00 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/phpxYahFo" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/phpxYahFo', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/phpxYahFo', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[21-Feb-2020 09:28:01 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/phpHogKg7" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/phpHogKg7', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/phpHogKg7', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37
+[21-Feb-2020 09:28:04 America/Lima] PHP Fatal error:  Uncaught Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException: The file "/tmp/phpDBz6QR" does not exist in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php:37
+Stack trace:
+#0 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/UploadedFile.php(66): Symfony\Component\HttpFoundation\File\File->__construct('/tmp/phpDBz6QR', true)
+#1 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(87): Symfony\Component\HttpFoundation\File\UploadedFile->__construct('/tmp/phpDBz6QR', 'up.php', '', 1340, 0)
+#2 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.php(52): Symfony\Component\HttpFoundation\FileBag->convertFileInformation(Array)
+#3 /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/FileBag.ph in /home/b65oe25eh20f/public_html/mimbreperu.com/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/File/File.php on line 37

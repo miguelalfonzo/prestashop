@@ -1,0 +1,26 @@
+- assets\css\theme.css
+- assets\js\theme.js
+
+- modules\ps_bestsellers\views\templates\hook\ps_bestsellers.tpl
+- modules\ps_contactinfo\ps_contactinfo.tpl
+- modules\ps_customeraccountlinks\ps_customeraccountlinks.tpl
+- modules\ps_emailsubscription\views\templates\hook\ps_emailsubscription.tpl
+- modules\ps_featuredproducts\views\templates\hook\ps_featuredproducts.tpl
+- modules\ps_linklist\views\templates\hook\linkblock.tpl
+- modules\ps_newproducts\views\templates\hook\ps_newproducts.tpl
+- modules\ps_specials\views\templates\hook\ps_specials.tpl
+- templates\_partials\breadcrumb.tpl
+- templates\_partials\head.tpl
+- templates\catalog\_partials\miniatures\brand.tpl
+- templates\catalog\_partials\miniatures\product.tpl
+- templates\catalog\_partials\facets.tpl
+- templates\catalog\_partials\product-customization.tpl
+- templates\catalog\_partials\product-details.tpl
+- templates\catalog\_partials\product-discounts.tpl
+- templates\catalog\_partials\product-prices.tpl
+- templates\catalog\_partials\product-variants.tpl
+- templates\catalog\_partials\quickview.tpl
+- templates\catalog\listing\category.tpl
+- templates\catalog\product.tpl
+- templates\cms\stores.tpl
+- templates\customer\discount.tpl

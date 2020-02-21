@@ -1,0 +1,79 @@
+/***************************************************
+  Mixins Themes
+/***************************************************/
+/* Mixin Normal*/
+/* Mixin Clear */
+/* Mixin Border */
+/*background RGBA
+============================================*/
+/***************************************************
+  Mixins RTL Themes
+/***************************************************/
+/* effect zoom In #1 */
+/************************************ 
+	Override Bootstrap 
+*************************************/
+/**
+ * Web Application Prefix Apply For Making Owner Styles
+ */
+/**
+ *   Blocks Layout Selectors 
+ */
+/***********************************************************************/
+.header-top .ApColumn {
+  min-height: 120px; }
+
+@media (max-width: 991px) {
+  .header-top .navbar-toggler {
+    position: absolute;
+    left: 15px;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%); }
+    .rtl .header-top .navbar-toggler {
+      right: 15px;
+      left: auto; }
+  .header-top .widget-search .popup-title i {
+    right: 15px;
+    left: auto;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%); }
+    .rtl .header-top .widget-search .popup-title i {
+      left: 15px;
+      right: auto; } }
+@media (max-width: 568px) {
+  .header-top .navbar-toggler {
+    left: 10px; }
+    .rtl .header-top .navbar-toggler {
+      right: 10px;
+      left: auto; }
+  .header-top .post-logo {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); }
+  .header-top .widget-search .popup-title i {
+    right: 10px;
+    left: auto;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%); }
+    .rtl .header-top .widget-search .popup-title i {
+      left: 10px;
+      right: auto; } }
+
+/*# sourceMappingURL=headerposition1503903063.css.map */

@@ -1,0 +1,126 @@
+/***************************************************
+  Mixins Themes
+/***************************************************/
+/* Mixin Normal*/
+/* Mixin Clear */
+/* Mixin Border */
+/*background RGBA
+============================================*/
+/***************************************************
+  Mixins RTL Themes
+/***************************************************/
+/* effect zoom In #1 */
+/************************************ 
+	Override Bootstrap 
+*************************************/
+/**
+ * Web Application Prefix Apply For Making Owner Styles
+ */
+/**
+ *   Blocks Layout Selectors 
+ */
+/***********************************************************************/
+.userinfo-selector {
+  height: 100px; }
+  .userinfo-selector a {
+    position: relative;
+    top: 42px; }
+  @media (max-width: 575px) {
+    .userinfo-selector {
+      height: 60px; }
+      .userinfo-selector a {
+        top: 21px; } }
+  .userinfo-selector .dropdown-menu {
+    position: absolute;
+    display: none; }
+    .userinfo-selector .dropdown-menu a {
+      top: inherit; }
+
+.bottomnav {
+  height: 100px; }
+  @media (max-width: 575px) {
+    .bottomnav {
+      margin-top: 68px;
+      position: relative;
+      height: 60px; } }
+
+.widget-search .popup-over .popup-content {
+  top: 60px; }
+.widget-search .popup-title > i {
+  left: auto;
+  right: 15px;
+  font-size: 22px; }
+  .rtl .widget-search .popup-title > i {
+    left: 15px;
+    right: auto; }
+  @media (max-width: 991px) {
+    .widget-search .popup-title > i {
+      top: 19px;
+      -webkit-transform: translateY(0);
+      -moz-transform: translateY(0);
+      -ms-transform: translateY(0);
+      -o-transform: translateY(0);
+      transform: translateY(0); } }
+.widget-search .open form.popup-content {
+  top: 60px; }
+
+.header-top .ApColumn {
+  display: -webkit-box;
+  display: -moz-box;
+  display: box;
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -moz-box-pack: center;
+  box-pack: center;
+  -webkit-justify-content: center;
+  -moz-justify-content: center;
+  -ms-justify-content: center;
+  -o-justify-content: center;
+  justify-content: center;
+  -ms-flex-pack: center;
+  position: static; }
+@media (max-width: 991px) {
+  .header-top .navbar-header {
+    height: 60px; } }
+.header-top .inner {
+  position: relative; }
+@media (max-width: 991px) {
+  .header-top {
+    height: 60px;
+    position: relative; }
+    .header-top .navbar-toggler {
+      top: 19px;
+      -webkit-transform: translateY(0);
+      -moz-transform: translateY(0);
+      -ms-transform: translateY(0);
+      -o-transform: translateY(0);
+      transform: translateY(0); } }
+
+@media (min-width: 992px) {
+  .leo-megamenu .navbar-nav > li > a {
+    line-height: 58px; } }
+.leo-megamenu.active .navbar-header::before {
+  content: 'X';
+  position: absolute;
+  color: #fff;
+  left: 30px;
+  top: 19px;
+  font-size: 27px;
+  background: #000;
+  z-index: 9;
+  padding: 5px;
+  pointer-events: none; }
+  .rtl .leo-megamenu.active .navbar-header::before {
+    right: 30px;
+    left: auto; }
+
+.mini-navbar .header-nav {
+  overflow: hidden; }
+
+.leo-top-menu .sub-title {
+  top: 5px; }
+
+/*# sourceMappingURL=headerposition2715485333.css.map */

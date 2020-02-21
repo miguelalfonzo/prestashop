@@ -1,0 +1,41 @@
+{shop_url}
+
+¡Enhorabuena!
+
+A new order was placed on {shop_name} by the following customer: {firstname} {lastname} ({email})
+
+Detalles del pedido
+
+Pedido: {order_name} Realizado el {date}
+
+Pago: {payment}
+
+Referencia	Producto	Precio unitario	Cantidad	Precio total   {items}
+Productos	{total_products}
+Descuentos	{total_discounts}
+Embalaje de regalo	{total_wrapping}
+Transporte	{total_shipping}
+Including total tax	{total_tax_paid}
+Total pagado	{total_paid}
+
+Carrier
+
+Transportista: {carrier}
+
+Pago: {payment}
+
+Dirección de entrega
+
+{delivery_block_html}
+
+Dirección de facturación
+
+{invoice_block_html}
+
+Mensaje del cliente:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](http://www.prestashop.com/)

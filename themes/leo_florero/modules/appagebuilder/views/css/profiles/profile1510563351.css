@@ -1,0 +1,76 @@
+/***************************************************
+  Mixins Themes
+/***************************************************/
+/* Mixin Normal*/
+/* Mixin Clear */
+/* Mixin Border */
+/*background RGBA
+============================================*/
+/***************************************************
+  Mixins RTL Themes
+/***************************************************/
+/* effect zoom In #1 */
+/************************************ 
+	Override Bootstrap 
+*************************************/
+/**
+ * Web Application Prefix Apply For Making Owner Styles
+ */
+/**
+ *   Blocks Layout Selectors 
+ */
+/***********************************************************************/
+.image-content-home5 .ApImage {
+  float: left;
+  overflow: hidden;
+  display: inline-block;
+  padding: 0 15px; }
+  .rtl .image-content-home5 .ApImage {
+    float: right; }
+.image-content-home5 .ApColumn {
+  padding: 0; }
+  @media (max-width: 575px) {
+    .image-content-home5 .ApColumn {
+      display: -webkit-box;
+      display: -moz-box;
+      display: box;
+      display: -webkit-flex;
+      display: -moz-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-pack: center;
+      -moz-box-pack: center;
+      box-pack: center;
+      -webkit-justify-content: center;
+      -moz-justify-content: center;
+      -ms-justify-content: center;
+      -o-justify-content: center;
+      justify-content: center;
+      -ms-flex-pack: center; } }
+  .image-content-home5 .ApColumn:nth-child(4), .image-content-home5 .ApColumn:nth-child(5) {
+    position: relative; }
+    @media (min-width: 576px) {
+      .image-content-home5 .ApColumn:nth-child(4) .ApImage, .image-content-home5 .ApColumn:nth-child(5) .ApImage {
+        position: absolute;
+        bottom: 100%; } }
+  .image-content-home5 .ApColumn .block.ApImage {
+    margin-bottom: 30px; }
+    @media (max-width: 991px) {
+      .image-content-home5 .ApColumn .block.ApImage img {
+        max-width: 100%; } }
+
+.page-home .nav-tabs .nav-item:first-child a {
+  padding-left: 0; }
+  .rtl .page-home .nav-tabs .nav-item:first-child a {
+    padding-right: 0;
+    padding-left: inherit; }
+.page-home .tab-content {
+  margin-top: 30px; }
+  @media (min-width: 992px) {
+    .page-home .tab-content .ApProductList li:nth-child(4n+1) {
+      clear: both; } }
+  @media (max-width: 991px) {
+    .page-home .tab-content .ApProductList li:nth-child(2n+1) {
+      clear: both; } }
+
+/*# sourceMappingURL=profile1510563351.css.map */

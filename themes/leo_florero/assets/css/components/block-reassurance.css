@@ -1,0 +1,109 @@
+/***************************************************
+  Mixins Themes
+/***************************************************/
+/* Mixin Normal*/
+/* Mixin Clear */
+/* Mixin Border */
+/*background RGBA
+============================================*/
+/***************************************************
+  Mixins RTL Themes
+/***************************************************/
+/* effect zoom In #1 */
+/************************************ 
+	Override Bootstrap 
+*************************************/
+/**
+ * Web Application Prefix Apply For Making Owner Styles
+ */
+/**
+ *   Blocks Layout Selectors 
+ */
+/***********************************************************************/
+#block-reassurance {
+  clear: both;
+  padding-top: 20px; }
+  #block-reassurance img {
+    width: 1.563rem;
+    opacity: 0;
+    display: none;
+    margin-right: 0.625rem; }
+    .rtl #block-reassurance img {
+      margin-left: 0.625rem;
+      margin-right: inherit; }
+    @media (max-width: 992px) {
+      #block-reassurance img {
+        width: 20px; } }
+  #block-reassurance li {
+    float: left;
+    text-align: center;
+    line-height: 70px; }
+    .rtl #block-reassurance li {
+      float: right; }
+    #block-reassurance li:nth-child(1) .block-reassurance-item .h6 {
+      position: relative;
+      padding-left: 20px; }
+      .rtl #block-reassurance li:nth-child(1) .block-reassurance-item .h6 {
+        padding-right: 20px;
+        padding-left: inherit; }
+      #block-reassurance li:nth-child(1) .block-reassurance-item .h6::before {
+        position: absolute;
+        content: '';
+        top: -5px;
+        left: -15px;
+        background: url(data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAeCAYAAAA2Lt7lAAABQ0lEQVRIx9WWbW3DMBCGL0MQDIVQDINQaQw6BuYQCAmDaRCCIWUQDB6DZz960VzHdnxZ+qMnWYpi3/P663zXAFJprYhc9XsQkZ8qL2CrnYAO8PyZ13+nLf9S5zvQs229jq0WuAJjBTi2UX2TAi3ggHkHOLZZWe0i4KL9Pco84Bqov0Z77O2Z8JcSGLSt7YDD7INruYqb/65gEJHP4oiDZp6cPdrxNHhJYCIffNXwRSAGTdzD/JzoM8EBL6wftvBlDEWscIBRuL/rD6oKDkW6HXCAToBLammRyB44wGVxSh1oSsQC9wT5oCsMWkQscJZtDfNu7lp64NsI98p8SJnOCCmZI5OTpwPgE4WkX9oq09bkBOLgssJXVztXE1lFsnFTKrxa6uqjUceaK7uwEEvVSzOJQituDfVVy1lEPvT7S0RuNU6/YiHyoKHW87kAAAAASUVORK5CYII=) no-repeat;
+        width: 25px;
+        height: 30px; }
+        .rtl #block-reassurance li:nth-child(1) .block-reassurance-item .h6::before {
+          right: -15px;
+          left: auto; }
+    #block-reassurance li:nth-child(2) .block-reassurance-item .h6 {
+      position: relative;
+      padding-left: 20px; }
+      .rtl #block-reassurance li:nth-child(2) .block-reassurance-item .h6 {
+        padding-right: 20px;
+        padding-left: inherit; }
+      #block-reassurance li:nth-child(2) .block-reassurance-item .h6::before {
+        position: absolute;
+        content: '';
+        top: -1px;
+        left: -15px;
+        background: url(data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAWCAYAAADXYyzPAAABBElEQVRIx+2V4Y2CQBCFPwwFEEuwBK4F7EBL0BKwhivBEi5YgiWoHWgJSgfPP4O3ToguicAfXzIBhnnMDjtvNpEEsAaWfA4b4PQqIAV+gfKDSQGm7wImVu3gmADZWIlHQdrTd3P3fDF7IJG1dc+4AD9A3XfiE3C1+6n9gR2hZNUPCkkEVpm/bHxDJc4kHe1dLmmwrq6BlV0rIBuquTzmo+n4m7hBDexx06YD3vNbpHBrWt5pMBYx/CK1lcH/hDnwfIj/AQur4vCiyi78ayjywlZzduIvzb91fm+d+J58tqBK0iIgtU2jNovme2Jue+SxjkjaiZ+0DK6Z7cncurIK+iAGUfw7ZtWzl6bFb2cAAAAASUVORK5CYII=) no-repeat;
+        width: 30px;
+        height: 30px; }
+        .rtl #block-reassurance li:nth-child(2) .block-reassurance-item .h6::before {
+          right: -15px;
+          left: auto; }
+    #block-reassurance li:nth-child(3) .block-reassurance-item .h6 {
+      position: relative;
+      padding-left: 20px; }
+      .rtl #block-reassurance li:nth-child(3) .block-reassurance-item .h6 {
+        padding-right: 20px;
+        padding-left: inherit; }
+      #block-reassurance li:nth-child(3) .block-reassurance-item .h6::before {
+        position: absolute;
+        content: '';
+        top: -1px;
+        left: -15px;
+        background: url(data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAUCAYAAACXtf2DAAAAzElEQVQ4y7WV0Q2DMAxEHxUDoI6COkJmaUboDB0hXYUdGKViA/cjRbhpADcNJ+UjVvD5zk5oRIRK6IApDZ5qZQcuQDiSAOCaktQm+CJpjR/1wNlwRpMA+MbY5AFwBWoeR1j0AasCq0V3XT3gEZHc6lbiW8vJgjDHcxYF4kyXIlb+RkoQWCbg7+QAWmJQEl2BRVlb53uQVt4bqn0Co9pP2VNJ5b9gsCg7/B60qinaolsif82ifVRs8q5Fnjhm1S3S8EVZNrD2FmV/fyV4AQCDV7puyXs1AAAAAElFTkSuQmCC) no-repeat;
+        width: 25px;
+        height: 30px; }
+        .rtl #block-reassurance li:nth-child(3) .block-reassurance-item .h6::before {
+          right: -15px;
+          left: auto; }
+    @media (max-width: 992px) {
+      #block-reassurance li {
+        margin-bottom: 10px; } }
+    #block-reassurance li .block-reassurance-item {
+      background: #645c84;
+      line-height: 26px;
+      padding: 20px; }
+      #block-reassurance li .block-reassurance-item span {
+        font-weight: 400;
+        font-size: 16px;
+        letter-spacing: 0.25px;
+        margin: 0px;
+        color: #FFFFFF;
+        font-family: "Source Sans Pro", sans-serif; }
+
+/*# sourceMappingURL=block-reassurance.css.map */

@@ -1,0 +1,95 @@
+/***************************************************
+  Mixins Themes
+/***************************************************/
+/* Mixin Normal*/
+/* Mixin Clear */
+/* Mixin Border */
+/*background RGBA
+============================================*/
+/***************************************************
+  Mixins RTL Themes
+/***************************************************/
+/* effect zoom In #1 */
+/************************************ 
+	Override Bootstrap 
+*************************************/
+/**
+ * Web Application Prefix Apply For Making Owner Styles
+ */
+/**
+ *   Blocks Layout Selectors 
+ */
+/***********************************************************************/
+#products #main .page-header,
+#pagenotfound #main .page-header {
+  margin: 2rem 0 3rem; }
+#products #main .page-content,
+#pagenotfound #main .page-content {
+  margin-bottom: 10rem; }
+#products .page-not-found,
+#pagenotfound .page-not-found {
+  background: white;
+  border: 1px solid #392c0f;
+  padding: 2rem;
+  font-size: 0.8125rem;
+  color: #878787;
+  max-width: 600px;
+  margin: 0 auto; }
+  #products .page-not-found .widget-search,
+  #pagenotfound .page-not-found .widget-search {
+    overflow: hidden;
+    position: relative;
+    z-index: 0; }
+    #products .page-not-found .widget-search input[type=text],
+    #pagenotfound .page-not-found .widget-search input[type=text] {
+      opacity: 1; }
+    #products .page-not-found .widget-search form,
+    #pagenotfound .page-not-found .widget-search form {
+      width: 100%; }
+      #products .page-not-found .widget-search form input[type=text],
+      #pagenotfound .page-not-found .widget-search form input[type=text] {
+        border: 1px solid #392c0f;
+        padding: 10px 20px;
+        padding: 10px 50px 10px 20px;
+        font-size: 20px; }
+        .rtl #products .page-not-found .widget-search form input[type=text], .rtl
+        #pagenotfound .page-not-found .widget-search form input[type=text] {
+          padding: 10px 20px 10px 50px; }
+      #products .page-not-found .widget-search form button[type=submit],
+      #pagenotfound .page-not-found .widget-search form button[type=submit] {
+        right: 20px;
+        right: 20px;
+        font-size: 20px;
+        opacity: 1;
+        visibility: visible; }
+        #products .page-not-found .widget-search form button[type=submit] i,
+        #pagenotfound .page-not-found .widget-search form button[type=submit] i {
+          font-size: 20px; }
+        .rtl #products .page-not-found .widget-search form button[type=submit], .rtl
+        #pagenotfound .page-not-found .widget-search form button[type=submit] {
+          left: 20px;
+          right: auto; }
+      #products .page-not-found .widget-search form.popup-content,
+      #pagenotfound .page-not-found .widget-search form.popup-content {
+        position: relative;
+        opacity: 1;
+        visibility: visible;
+        pointer-events: initial; }
+    #products .page-not-found .widget-search .search-widget,
+    #pagenotfound .page-not-found .widget-search .search-widget {
+      float: none; }
+      #products .page-not-found .widget-search .search-widget input,
+      #pagenotfound .page-not-found .widget-search .search-widget input {
+        width: 100%; }
+      #products .page-not-found .widget-search .search-widget > a,
+      #pagenotfound .page-not-found .widget-search .search-widget > a {
+        display: none; }
+      #products .page-not-found .widget-search .search-widget form,
+      #pagenotfound .page-not-found .widget-search .search-widget form {
+        display: inline-block; }
+  #products .page-not-found > h4,
+  #pagenotfound .page-not-found > h4 {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 22px; }
+
+/*# sourceMappingURL=errors.css.map */

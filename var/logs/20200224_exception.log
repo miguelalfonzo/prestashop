@@ -1,0 +1,13 @@
+*ERROR* 	v1.7.6.0	2020/02/24 - 16:59:08: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.0	2020/02/24 - 16:59:45: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.0	2020/02/24 - 17:01:50: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user 'roots'@'localhost' (using password: NO) at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.0	2020/02/24 - 17:03:00: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user 'MIMBREPERU'@'localhost' (using password: YES) at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.0	2020/02/24 - 17:03:54: Link to database cannot be established: SQLSTATE[HY000] [1049] Unknown database 'prestashops' at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.0	2020/02/24 - 17:04:10: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.0	2020/02/24 - 17:04:29: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.0	2020/02/24 - 17:04:35: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user 'roots'@'localhost' (using password: YES) at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.0	2020/02/24 - 17:04:49: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.0	2020/02/24 - 17:05:38: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.0	2020/02/24 - 17:05:50: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user 'roots'@'localhost' (using password: NO) at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.0	2020/02/24 - 17:06:01: Link to database cannot be established: SQLSTATE[HY000] [1045] Access denied for user 'roots'@'localhost' (using password: YES) at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.0	2020/02/24 - 17:29:18: Link to database cannot be established: SQLSTATE[HY000] [1049] Unknown database 'prestashops' at line 127 in file classes/db/DbPDO.php
